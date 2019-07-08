@@ -1,0 +1,420 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Dodecs - Members</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html"><strong><font color="#fff">Home</font></strong></a></li>
+									<!--
+									
+									<a href="#">Dropdown</a>
+									<ul>
+										<li><a href="#">Lorem ipsum dolor</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
+										<li>
+											<a href="#">And a submenu &hellip;</a>
+											<ul>
+												<li><a href="#">Lorem ipsum dolor</a></li>
+												<li><a href="#">Phasellus consequat</a></li>
+												<li><a href="#">Magna phasellus</a></li>
+												<li><a href="#">Etiam dolore nisl</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Veroeros feugiat</a></li>
+									</ul>
+									
+									-->
+								<li><a href="members.html"><strong><font color="#fff">Members</font></strong></a></li>
+								<li><a href="shows.html"><strong><font color="#fff">Shows</font></strong></a></li>
+								<li><a href="media.html"><strong><font color="#fff">Media</font></strong></a></li>
+								<li><a href="donate.html"><strong><font color="#fff">Donate</font></strong></a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+			<!-- Main -->
+				<div class="wrapper style1">
+
+					<section id="features" class="container special">
+						<header>
+							<h2>Members</h2>
+							<p>Get to know us!</p>
+						</header>
+						<div class="row">
+	<!-- to add a new member copy from here...-->
+							<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/justine.jpg" alt="" /></a></br>
+								<header>
+									<h3>Justine Goggin '18</h3>
+								</header>
+								<p>
+								<header>
+									Hometown: Old Greenwich, CT
+									</br>
+									Majors: English, Theater
+									</br>
+									Fun Fact: I met Raven Symone once.
+								</header>
+								</p>
+							</article>
+	<!--...to here-->
+							<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/tara.jpg" alt="" /></a></br>
+								<header>
+									<h3>Tara Joshi '18</h3>
+								</header>
+								<p>
+								<header>
+									Hometown: Los Angeles, CA
+									</br>
+									Major: Geography
+									</br>
+									Fun Fact: I fell off a cliff when I was 3.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/jacob.jpg" alt="" /></a></br>
+								<header>
+									<h3>Jacob Cutler '18</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Bethesda, MD
+									</br>
+									Majors: History, Asian/Middle Eastern Studies
+									</br>
+									Fun Fact: It has long been my dream to become a veterinarian.
+								</header>
+								</br>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/morgie.jpg" alt="" /></a></br>
+								<header>
+									<h3>Morgan McGonagle '18</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Cherry Hills Village, CO
+									</br>
+									Major: Mechanical Engineering
+									</br>
+									Fun Fact: My favorite food is avocados.
+								</header>
+								
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/zak.jpg" alt="" /></a></br>
+								<header>
+									<h3>Zakios Meghrouni-Brown '18</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Berkeley, CA
+									</br>
+									Majors: Engineering, Studio Art
+									</br>
+									Fun Fact:  I was born when comet Hyakutake appeared for the first time 100,000 years.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/tom.jpg" alt="" /></a></br>
+								<header>
+									<h3>Tom Latta '19</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Los Altos Hills, CA
+									</br>
+									Major: Undecided
+									</br>
+									Fun Fact: I have a twin brother.
+								</header>
+								</br>
+								</p>
+							
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/michelle.jpg" alt="" /></a></br>
+								<header>
+									<h3>Michelle He '19</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: New Smyrna Beach, FL
+									</br>
+									Major(s): Economics, Chinese
+									</br>
+									Fun Fact: I have raised three wild baby birds.
+								</header>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/malcolm.jpg" alt="" /></a></br>
+								<header>
+									<h3>Malcolm Joung '19</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Bridgeport, CT
+									</br>
+									Major: Engineering
+									</br>
+									Fun Fact: I own two chinchillas named Salt and Pepper.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/emily.jpg" alt="" /></a></br>
+								<header>
+									<h3>Emily Levine '19</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Lake Oswego, OR
+									</br>
+									Major: Undecided
+									</br>
+									Fun Fact: My favorite song is Barbie Girl by Aqua.
+								</header>
+								</br>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/xtina.jpg" alt="" /></a></br>
+								<header>
+									<h3>Christina Reagan '19 - President</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Stuart, FL
+									</br>
+									Major: Undecided
+									</br>
+									Fun Fact: I've been in over 25 musicals.
+								</header>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/geoff.jpg" alt="" /></a></br>
+								<header>
+									<h3>Geoff Weber '19</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Boston, MA
+									</br>
+									Major: Philosophy
+									</br>
+									Fun Fact: I love a good dad joke as much as I love a good cigar.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/ben.jpg" alt="" /></a></br>
+								<header>
+									<h3>Ben Coleman '20</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Mount Kisco, NY
+									</br>
+									Major: Computer Science
+									</br>
+									Fun Fact: I live in the forest.
+								</header>
+								</br>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/kubes.jpg" alt="" /></a></br>
+								<header>
+									<h3>Daniella Kubiak '20 - Website Manager</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Laguna Niguel, CA
+									</br>
+									Major: Mechanical Engineering
+									</br>
+									Fun Fact: I'm Japanese.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/nashe.jpg" alt="" /></a></br>
+								<header>
+									<h3>Nashe Mutenda '20 - Publicity Manager</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Tokyo, Japan
+									</br>
+									Major: Civil Engineering
+									</br>
+									Fun Fact: I've eaten alligator tail before.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/aaron.jpg" alt="" /></a></br>
+								<header>
+									<h3>Aaron Samuels '20 - Musical Director</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Westport, CT
+									</br>
+									Major: Undecided
+									</br>
+									Fun Fact: I've never seen a Star Wars movie.
+								</header>
+								</br>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/matt.jpg" alt="" /></a></br>
+								<header>
+									<h3>Matthew Spencer '20 - Business Manager</h3>
+								</header>
+								<p>
+									<header>
+									Hometown: Bethesda, MD
+									</br>
+									Major: Biomedical Engineering
+									</br>
+									Fun Fact: I got rabies from a baby zebra.
+								</header>
+								</p>
+							</article>
+							
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/evan.jpg" alt="" /></a></br>
+								<header>
+									<h3>Evan Christo '21 - Tour Manager</h3>
+								</header>
+								<p>
+								<header>
+									Hometown: Mansfield, MA
+									</br>
+									Major: Engineering Sciences
+									</br>
+									Fun Fact: Evan is too tall to be an astronaut, but he still dreams...
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/maxine.jpg" alt="" /></a></br>
+								<header>
+									<h3>Maxine Perroni-Sharf '21</h3>
+								</header>
+								<p>
+								<header>
+									Hometown: Solihull, England
+									</br>
+									Major: Undecided
+									</br>
+									Fun Fact: I can write backwards in cursive.
+								</header>
+								</br>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/rory.jpg" alt="" /></a></br>
+								<header>
+									<h3>Rory Schadler '21 - Tour & Recording Manager</h3>
+								</header>
+								<p>
+								<header>
+									Hometown: Lexington, MA
+									</br>
+									Major: Undecided
+									</br>
+									Fun Fact: I've built sets for Broadway shows.
+								</header>
+								</p>
+							</article>
+						<article class="4u 12u(mobile) special">
+								<a class="image featured"><img src="images/caitlin.jpg" alt="" /></a></br>
+								<header>
+									<h3>Caitlin Wanic '21</h3>
+								</header>
+								<p>
+								<header>
+									Hometown: Brimley, MI
+									</br>
+									Major: Bio/Native American Studies
+									</br>
+									Fun Fact: I can fall asleep anywhere.
+								</header>
+								</p>
+							</article>
+						
+						</div>
+					</section>
+
+				</div>
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+								<!-- Contact -->
+									<section class="contact">
+										<header>
+											<h3>Connect with us! #followforfollow</h3>
+										</header>
+										<ul class="icons">
+											<li><a href="http://www.instagram.com/dartmouth_dodecs" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="http://www.facebook.com/DartmouthDodecs" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="http://www.twitter.com/Dodecaphonics" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://play.spotify.com/artist/7vyQHyJICvNsfju2JdVoMY?play=true&utm_source=open.spotify.com&utm_medium=open" class="icon fa-spotify"><span class="label">Spotify</span></a></li>
+										</ul>
+									</section>
+
+								<!-- Copyright -->
+									<div class="copyright">
+										<ul class="menu">
+											<li><font color=#fff>&copy; The Dartmouth Dodecaphonics 2017. All rights reserved. Built by <a href="mailto:
+											daniella.kubiak.20@dartmouth.edu" target="_top"><strong><font color=#fff><u>Daniella Kubiak</u></font></strong></a>.</li></br>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
