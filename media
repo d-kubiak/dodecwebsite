@@ -1,0 +1,150 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Dodecs - Media</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="left-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<!-- <header>
+								<h1><a href="index.html" id="logo">Helios</a></h1>
+							</header> -->
+						</div>
+
+					<!-- Nav -->
+						<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html"><strong><font color="#fff">Home</font></strong></a></li>
+									<!--
+									
+									<a href="#">Dropdown</a>
+									<ul>
+										<li><a href="#">Lorem ipsum dolor</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
+										<li>
+											<a href="#">And a submenu &hellip;</a>
+											<ul>
+												<li><a href="#">Lorem ipsum dolor</a></li>
+												<li><a href="#">Phasellus consequat</a></li>
+												<li><a href="#">Magna phasellus</a></li>
+												<li><a href="#">Etiam dolore nisl</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Veroeros feugiat</a></li>
+									</ul>
+									
+									-->
+								<li><a href="members.html"><strong><font color="#fff">Members</font></strong></a></li>
+								<li><a href="shows.html"><strong><font color="#fff">Shows</font></strong></a></li>
+								<li><a href="media.html"><strong><font color="#fff">Media</font></strong></a></li>
+								<li><a href="donate.html"><strong><font color="#fff">Donate</font></strong></a></li>
+							</ul>
+						</nav>
+
+				</div>
+
+			<!-- Main -->
+				<div class="wrapper style1">
+					<div class="container">
+						<div class="row 200%">
+							<div class="4u 12u(mobile)" id="sidebar">
+								<hr class="first" />
+								<section>
+									<header>
+										<h3>Introducing our new <strong>DDX Album</strong>!</h3>
+									</header>
+									<a class="image featured"><img src="images/ddx.jpg" alt="" /></a></br>
+									<p>
+										Click to check it out on <a href="https://play.spotify.com/album/4X4kDEjysLjeCYvTxg4kge?play=true&utm_source=open.spotify.com&utm_medium=open&si=s0Zc1J33"><strong><u>Spotify</u></strong></a> or <a href="https://itunes.apple.com/us/album/ddx/id1275577453"><strong><u>iTunes</u>.</strong></a>
+									</br>
+									</br>
+									</p>
+								</section>
+								<section>
+									<header>
+										<h3>Click on a song to watch us perform!</a></h3>
+									</header>
+									<header>	
+										<a href="https://www.youtube.com/watch?v=MBPcmkgfjWA"><strong><u>Sorry Not Sorry - Demi Lovato</u></strong></a></br>
+										<a href="https://www.youtube.com/watch?v=HRvESpnQ0UQ"><strong><u>Gangsta - Kehlani</u></strong></a></br>
+										<a href="https://www.youtube.com/watch?v=bP21b2v1ZpY"><strong><u>Boondocks - Little Big Town</u></strong></a></br>
+										<a href="https://www.youtube.com/watch?v=_7PyVQqtDh4"><strong><u>Heart Attack - Demi Lovato</u></strong></a></br>
+										<a href="https://www.youtube.com/watch?v=fNkk3u_VnZI"><strong><u>Summertime - George Gershwin & DuBose Heyward</u></strong></a></br>
+										<a href="https://www.youtube.com/watch?v=OzPOcf4RfyU"><strong><u>Dreaming With a Broken Heart - John Mayer</u></strong></a></br>
+										</header>
+								</section>
+							</div>
+							<div class="8u 12u(mobile) important(mobile)" id="content">
+									<header>
+										<h2>Media</a></h2>
+										<p>
+											Enjoy some of our favorite performances!
+										</p>
+									</header>
+									<div class="videoWrapper">
+									<iframe width="100%" height="420" src="https://www.youtube.com/embed/X9uwcZXFZuk" frameborder="0" allowfullscreen></iframe>
+									</div>
+									</br>
+							</div>
+						</div>						
+					</div>
+				</div>
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+						<!-- Contact -->
+									<section class="contact">
+										<header>
+											<h3>Connect with us! #followforfollow</h3>
+										</header>
+										<ul class="icons">
+											<li><a href="http://www.instagram.com/dartmouth_dodecs" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="http://www.facebook.com/DartmouthDodecs" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="http://www.twitter.com/Dodecaphonics" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://play.spotify.com/artist/7vyQHyJICvNsfju2JdVoMY?play=true&utm_source=open.spotify.com&utm_medium=open" class="icon fa-spotify"><span class="label">Spotify</span></a></li>
+										</ul>
+									</section>
+
+								<!-- Copyright -->
+									<div class="copyright">
+										<ul class="menu">
+											<li><font color=#fff>&copy; The Dartmouth Dodecaphonics 2017. All rights reserved. Built by <a href="mailto:daniella.kubiak.20@dartmouth.edu" target="_top"><strong><font color=#fff><u>Daniella Kubiak</u></font></strong></a>.</li></br>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
