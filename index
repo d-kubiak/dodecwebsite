@@ -1,0 +1,209 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Dodecs - Home</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body class="homepage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header">
+
+					<!-- Inner -->
+						<div class="inner">
+							<header>
+								<h1><a href="index.html" id="logo"><font color="#fff">The Dartmouth Dodecaphonics</font></a></h1>
+								<p><strong><font color="#fff">Dartmouth College's oldest and premier co-ed a cappella group, est. 1984</font></strong></p>
+							</header>
+							<footer>
+							<a href="#banner" class="button circled scrolly">Enter</a>
+							</footer>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="index.html"><strong><font color="#fff">Home</font></strong></a></li>
+								<!-- 
+								*this is in case you want to make a dropdown option in the menu*
+								<li>
+									<a href="#"><strong>Dropdown</strong></a>
+									<ul>
+										<li><a href="#">Lorem ipsum dolor</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
+										<li>
+											<a href="#">And a submenu &hellip;</a>
+											<ul>
+												<li><a href="#">Lorem ipsum dolor</a></li>
+												<li><a href="#">Phasellus consequat</a></li>
+												<li><a href="#">Magna phasellus</a></li>
+												<li><a href="#">Etiam dolore nisl</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Veroeros feugiat</a></li>
+									</ul> -->
+								<li><a href="members.html"><strong><font color="#fff">Members</font></strong></a></li>
+								<li><a href="shows.html"><strong><font color="#fff">Shows</font></strong></a></li>
+								<li><a href="media.html"><strong><font color="#fff">Media</font></strong></a></li>
+								<li><a href="donate.html"><strong><font color="#fff">Donate</font></strong></a></li>
+								
+							</ul>
+						</nav>
+
+				</div>
+
+			<!-- Banner -->
+				<section id="banner">
+					<header>
+						<h2>Welcome! We're the <strong>Dodecs</strong>.</h2>
+						<p>
+							We're happy you're here! Explore our website or click below to view our social media.
+						</p></br>
+						<ul class="icons">
+											<li><a href="http://www.instagram.com/dartmouth_dodecs" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="http://www.facebook.com/DartmouthDodecs" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="http://www.twitter.com/Dodecaphonics" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://play.spotify.com/artist/7vyQHyJICvNsfju2JdVoMY?play=true&utm_source=open.spotify.com&utm_medium=open" class="icon fa-spotify"><span class="label">Spotify</span></a></li>
+										</ul>
+					</header>
+				</section>
+
+			<!-- Carousel -->
+				<section class="carousel">
+					<div class="reel">
+<!-- TO ADD PICTURE TO CAROUSEL....START HERE....
+						<article>
+							<a class="image featured"><img src="images/ca.jpg" alt="" /></a>
+							<header>
+								<h3>California, 2017</h3>
+							</header>
+						</article>
+						ending here -->
+						<article>
+							<a class="image featured"><img src="images/nj.jpg" alt="" /></a>
+							<header>
+								<h3>New Jersey, 2016</h3>
+							</header>
+						</article>
+						
+					<article>
+							<a class="image featured"><img src="images/tx1.jpg" alt="" /></a>
+							<header>
+								<h3>Texas, 2014</h3>
+							</header>
+						</article>
+
+						<article>
+							<a class="image featured"><img src="images/fl1.jpg" alt="" /></a>
+							<header>
+								<h3>Florida, 2015</h3>
+							</header>
+						</article>
+
+						<article>
+							<a class="image featured"><img src="images/ct.jpg" alt="" /></a>
+							<header>
+								<h3>Connecticut, 2016</h3>
+							</header>
+						</article>
+						
+						
+						<article>
+							<a class="image featured"><img src="images/tx2.jpg" alt="" /></a>
+							<header>
+								<h3>Texas, 2014</h3>
+							</header>
+						</article>
+						
+						<article>
+							<a class="image featured"><img src="images/bos.jpg" alt="" /></a>
+							<header>
+								<h3>Massachusetts, 2016</h3>
+							</header>
+						</article>
+						
+						<!--
+						<article>
+							<a class="image featured"><img src="images/pic01.jpg" alt="" /></a>
+							<header>
+								<h3>Winter 2016, New York</h3>
+							</header>
+						</article>
+						-->
+					</div>
+				</section>
+
+			<!-- Main -->
+				<div class="wrapper style2">
+
+					<article id="main" class="container special">
+						<a class="image featured"><img src="images/baker2.jpg" alt="" /></a> </br>
+						<header>
+							<h2>About Us</h2>
+		
+						</header>
+						<p>
+							Founded in 1984, we are the first a cappella group at Dartmouth to have been recognized by Best of College A Cappella, have opened for Bobby McFerrin,
+							and have been at least ICCA semifinalists every time we've competed. Each winter we tour around the nation and love meeting fans and alumni along the way.</br></br>
+							Want to schedule a show with the Dodecs? Contact our <a href="mailto:matthew.o.spencer.20@dartmouth.edu" target="_top"><strong><u>Business Manager</u></strong></a>!
+						</p>
+						<footer>
+						<!-- <a href="#" class="button">Continue Reading</a>
+						</footer>
+					</article> -->
+
+				</div>
+
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+							<div class="12u">
+								<!-- Contact -->
+									<section class="contact">
+										<header>
+											<h3>Connect with us! #followforfollow</h3>
+										</header>
+										<ul class="icons">
+											<li><a href="http://www.instagram.com/dartmouth_dodecs" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="http://www.facebook.com/DartmouthDodecs" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="http://www.twitter.com/Dodecaphonics" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+											<li><a href="https://play.spotify.com/artist/7vyQHyJICvNsfju2JdVoMY?play=true&utm_source=open.spotify.com&utm_medium=open" class="icon fa-spotify"><span class="label">Spotify</span></a></li>
+										</ul>
+									</section>
+
+								<!-- Copyright -->
+									<div class="copyright">
+										<ul class="menu">
+											<li><font color=#fff>&copy; The Dartmouth Dodecaphonics 2017. All rights reserved. Built by <a href="mailto:daniella.kubiak.20@dartmouth.edu" target="_top"><strong><font color=#fff><u>Daniella Kubiak</u></font></strong></a>.</li></br>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.onvisible.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
